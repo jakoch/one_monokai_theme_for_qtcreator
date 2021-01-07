@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="One Monokai">
+    <!--
+     This color scheme is based on One Monokai for Visual Studio Code, which is a cross between Monokai and One Dark.
+
+     Monokai was created by Wimer Hazenberg in 2006 for Textmate.
+     One Dark was created by Github in 2014 for Atom.
+
+     It was adapted for use by Qt Creator by Jens A. Koch:
+     https://github.com/jakoch/one_monokai_theme_for_qtcreator
+  -->
+  <style name="Text" foreground="#abb2bf" background="#282c34"/>
+  <style name="Link" foreground="#d6c540"/>
+  <style name="Selection" background="#3e4451"/>
+  <style name="LineNumber" foreground="#495162"/>
+  <style name="SearchResult" background="#3e4451"/>
+  <style name="SearchResultAlt1" foreground="#aaaaff" background="#3f4051"/>
+  <style name="SearchResultAlt2" foreground="#ffaaaa"/>
+  <style name="SearchScope" background="#3e4451"/>
+  <style name="Parentheses" foreground="#abb2bf" background="#282c34"/>
+  <style name="ParenthesesMismatch" foreground="#e06c75"/>
+  <style name="AutoComplete" foreground="#e06c75"/>
+  <style name="CurrentLine" background="#3e4451"/>
+  <style name="CurrentLineNumber" foreground="#abb2bf" bold="true"/>
+  <style name="Occurrences" background="#42557b"/>
+  <style name="Occurrences.Unused" foreground="#8a7f2c"/>
+  <style name="Occurrences.Rename" foreground="#ffaaaa" background="#553636"/>
+  <style name="Number" foreground="#d19a66"/>
+  <style name="String" foreground="#e5c07b"/>
+  <style name="Type" foreground="#61afef"/>
+  <style name="Local" foreground="#d19a66"/>
+  <style name="Global" foreground="#e06c75"/>
+  <style name="Field" foreground="#abb2bf"/>
+  <style name="Static" foreground="#66a334" italic="true"/>
+  <style name="VirtualMethod" foreground="#61afef" italic="true"/>
+  <style name="Function" foreground="#98c379"/>
+  <style name="Keyword" foreground="#e06c75"/>
+  <style name="PrimitiveType" foreground="#61afef"/>
+  <style name="Operator" foreground="#d6bb9a"/>
+  <style name="Overloaded Operator" foreground="#61afef"/>
+  <style name="Punctuation" foreground="#abb2bf" background="#282c34"/>
+  <style name="Preprocessor" foreground="#c678dd"/>
+  <style name="Label" foreground="#d6c540"/>
+  <style name="Comment" foreground="#5c6370" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#5c6370" bold="true" italic="true"/>
+  <style name="Doxygen.Tag" foreground="#66a334"/>
+  <style name="VisualWhitespace" foreground="#3b4048"/>
+  <style name="QmlLocalId" foreground="#9acfd6" italic="true"/>
+  <style name="QmlExternalId" foreground="#9aa7d6" italic="true"/>
+  <style name="QmlTypeId" foreground="#66a334"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#9aa7d6" italic="true"/>
+  <style name="JsScopeVar" foreground="#9acfd6" italic="true"/>
+  <style name="JsImportVar" foreground="#4564d6" italic="true"/>
+  <style name="JsGlobalVar" foreground="#4564d6" italic="true"/>
+  <style name="QmlStateName" foreground="#45c6d6" italic="true"/>
+  <style name="Binding" foreground="#abb2bf"/>
+  <style name="DisabledCode" foreground="#969696" background="#474747"/>
+  <style name="AddedLine" foreground="#98c379"/>
+  <style name="RemovedLine" foreground="#e06c75"/>
+  <style name="DiffFile" foreground="#66a334"/>
+  <style name="DiffLocation" foreground="#d6c540"/>
+  <style name="DiffFileLine" foreground="#2e2f30" background="#d6c540"/>
+  <style name="DiffContextLine" foreground="#2e2f30" background="#65676a"/>
+  <style name="DiffSourceLine" foreground="#75715e"/>
+  <style name="DiffSourceChar" foreground="#2e2f30" background="#c34141"/>
+  <style name="DiffDestLine" background="#588a2c"/>
+  <style name="DiffDestChar" foreground="#2e2f30" background="#7cc33e"/>
+  <style name="LogChangeLine" foreground="#d65645"/>
+  <style name="LogAuthorName" foreground="#ceffe5"/>
+  <style name="LogCommitDate" foreground="#00ff00"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject" foreground="#d6cf9a"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
+  <style name="Warning" underlineColor="#d6c545" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#c24038" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#d65645" underlineStyle="DotLine"/>
+  <style name="Declaration" foreground="#98c379" bold="true"/>
+  <style name="FunctionDefinition" foreground="#98c379"/>
+  <style name="OutputArgument" italic="true"/>
+</style-scheme>
